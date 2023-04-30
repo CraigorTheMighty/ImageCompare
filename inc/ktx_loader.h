@@ -1,0 +1,1 @@
+int KTX_LoadImage(char *filename, image_t *image);

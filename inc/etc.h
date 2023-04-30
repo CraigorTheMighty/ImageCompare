@@ -1,0 +1,1 @@
+void ETC_DecodeETCN(image_t *image);
