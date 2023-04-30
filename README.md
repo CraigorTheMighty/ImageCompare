@@ -15,8 +15,8 @@ Usage
 
 Run "compare.exe" without any arguments in the command-line to get program usage information.
 
-Dependences
-===========
+Dependencies
+============
 
 Uses the DevIL library (https://openil.sourceforge.net/download.php) to load source images. DevIL is licensed under LGPL 2.1. The relevant headers, .libs, .dlls are included in this repository.
 
