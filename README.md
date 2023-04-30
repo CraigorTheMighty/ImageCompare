@@ -3,7 +3,10 @@ ImageCompare
 
 A small command-line program to compare sets of images against a reference image.
 
-Outputs traditional PSNR information, and optionally SSIM images.
+Outputs traditional PSNR information, and optionally SSIM images in .tga format.
+
+PSNR: https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
+SSIM: https://en.wikipedia.org/wiki/Structural_similarity
 
 Usage
 =====
